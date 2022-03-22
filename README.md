@@ -2,7 +2,7 @@
 - 💻 I'm studying Computer Science at Faculty of Eletrical engineering and computing at University of Zagreb
 - 👀 I’m interested in creating new projects, growing my resume and expanding my network
 - 🌱 I’m currently learning machine learning and AI in Python
-- 💞️ I’m looking to collaborate on any project regarding web and programming in Python, Java or Javascript
+- 💞️ I’m looking to collaborate on any project regarding web and programming in Python, Java, Javascript or C
 - 📫 Reach me on vbranica@gmail.com
 
 <!---
